@@ -2,10 +2,10 @@
 Qing-Feng (Paul) Lin, Ph.D. <BR>
 Assistant Professor <BR>
 Dept. of Information Management <BR>
-National Penghu University of Science and Technology <BR>
-No.300, Liuhe Rd., Magong City, Penghu County 88046, Taiwan.  <BR>
-Phone: +886-6-9264115 ext. 5627 <BR>
-E-mail：qflin@gms.npu.edu.tw <BR>
+Fu-Jen Catholic University <BR>
+No.510, Zhongzheng Rd., Xinzhuang Dist., New Taipei City 242062, Taiwan.  <BR>
+Phone: +886-955349665 <BR>
+E-mail：155360@mail.fju.edu.tw <BR>
         qflin.ait@gmail.com <BR>
  <BR>
 <!---
