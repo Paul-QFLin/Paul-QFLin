@@ -1,5 +1,5 @@
 Greetings fellow coders! <BR>
-I'm Paul, a prof at University. I teach programming to bright-eyed students, converting them from logic n00bs to elite hackerz. <Br>
+I'm Paul, a professor at university. I teach programming to bright-eyed students, converting them from logic n00bs to elite hackerz. <Br>
 
 My specialties? I sling C# for fun Windows apps that ain't just Solitaire clones.<Br> 
 I weave Python scripts to automate my life, so I can spend more time on the boring paper writing.<Br>
