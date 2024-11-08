@@ -9,4 +9,13 @@ I'm always looking to nerd snipe my way into coding challenges that let me flex 
 
 Ready to become an elite coder? Join me on this magical coding carpet ride! Programming never sounded so fun ;)
 
+Experties
+．Sentimental Analysis
+．Machine Learning
+．Big Data Analysis
+．Datamining and Knowledge Extraction
+．Software Development and Project Management
 
+EMail
+．qflin@outlook.com
+．155360@mail.fju.edu.tw
