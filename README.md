@@ -7,15 +7,15 @@ I also teaching n00bs to code their first "Hello World" apps every year.<Br>
 When not schooling students, you can catch me optimizing algorithms just for laughs.<Br>
 I'm always looking to nerd snipe my way into coding challenges that let me flex my skills.<Br>
 
-Ready to become an elite coder? Join me on this magical coding carpet ride! Programming never sounded so fun ;)
+Ready to become an elite coder? Join me on this magical coding carpet ride! Programming never sounded so fun ;)<Br> 
 
-Experties
-．Sentimental Analysis
-．Machine Learning
-．Big Data Analysis
-．Datamining and Knowledge Extraction
-．Software Development and Project Management
+Experties<Br> 
+．Sentimental Analysis<Br> 
+．Machine Learning<Br> 
+．Big Data Analysis<Br> 
+．Datamining and Knowledge Extraction<Br> 
+．Software Development and Project Management<Br> 
 
-EMail
-．qflin@outlook.com
-．155360@mail.fju.edu.tw
+EMail<Br> 
+．qflin@outlook.com<Br> 
+．155360@mail.fju.edu.tw<Br> 
